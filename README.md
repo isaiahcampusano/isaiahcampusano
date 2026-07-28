@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="58%" valign="middle">
-      <img src="./assets/me-placeholder.svg" alt="isaiahcampusano" width="220" />
+      <img src="./speech-bubble_1.svg" alt="hola, i'm zay" width="100%" />
     </td>
     <td width="42%" align="center" valign="bottom">
-      <img src="./assets/me-placeholder.svg" alt="isaiahcampusano" width="220" />
+      <img src="./me-placeholder.svg" alt="isaiahcampusano" width="220" />
     </td>
   </tr>
 </table>
