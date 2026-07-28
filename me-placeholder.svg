@@ -1,7 +1,0 @@
-<svg viewBox="0 0 260 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="placeholder for your cutout photo">
-  <rect x="4" y="4" width="252" height="412" rx="12" fill="none" stroke="#c7c7c7" stroke-width="2" stroke-dasharray="8 8"/>
-  <circle cx="130" cy="150" r="40" fill="none" stroke="#b0b0b0" stroke-width="3"/>
-  <path d="M 70 260 Q 70 200 130 200 Q 190 200 190 260 L 190 300 L 70 300 Z" fill="none" stroke="#b0b0b0" stroke-width="3"/>
-  <text x="130" y="345" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#999999">your cutout photo</text>
-  <text x="130" y="365" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#b0b0b0">save as assets/me.png</text>
-</svg>
