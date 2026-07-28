@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="58%" valign="middle">
-      <img src="./speech-bubble.svg" alt="hola, i'm zay" width="100%" />
+      <img src="./assets/me-placeholder.svg" alt="isaiahcampusano" width="220" />
     </td>
     <td width="42%" align="center" valign="bottom">
       <img src="./assets/me-placeholder.svg" alt="isaiahcampusano" width="220" />
