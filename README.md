@@ -27,4 +27,4 @@
 this code is free to fork, remix, or build on. a shoutout if it helps you ship something is always appreciated, but never required.
 
 - 💼 linkedin: [`isaiah-campusano`](https://linkedin.com/in/isaiah-campusano-802535266)
-- 🔗 [add another platform if you've got one]
+- 🔗 tiktok: [`isaiah.md`](https://www.tiktok.com/@isaiah.md?_r=1&_t=ZT-98QMZsK1Dm1)
