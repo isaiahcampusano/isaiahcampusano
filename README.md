@@ -1,4 +1,8 @@
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 800px; margin: 0 auto;">
+  <!-- Image on the LEFT -->
+  <div>
+    <img src="./m3.png" alt="isaiahcampusano" width="220" style="display: block;" />
+  </div>
 
   <!-- Speech bubble on the RIGHT, aligned to the top (head level) -->
   <div style="margin-top: -15px;"> <!-- tweak this to move it up/down to perfectly point at your face -->
