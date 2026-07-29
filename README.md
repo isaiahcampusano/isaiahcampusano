@@ -10,9 +10,9 @@
 </table>
 
 ### 🎀 about me
-- 🌵 [where you're based / who you are]
-- 💻 [what you study or build — e.g. CS @ UGA]
-- 📷 [what you post about / focus area]
+- 🌵 [first-gen dominicano from lynn, mass]
+- 💻 [math @ university of georgia]
+- 📷 [building....]
 
 ### 📁 fav repos
 | name | description |
