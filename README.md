@@ -1,4 +1,6 @@
-<table>
+hola, i'm zay
+
+---
   <tr>
     <td width="58%" valign="middle">
       <img src="./speech-bubble_1.svg" alt="hola, i'm zay" width="100%" />
