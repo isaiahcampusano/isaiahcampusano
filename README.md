@@ -5,7 +5,7 @@
 
 
 ### 🏈 about me
-- ❄️ [first-gen dominicano from lynn, mass]
+- ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
 - ⌨️ [building....]
 
