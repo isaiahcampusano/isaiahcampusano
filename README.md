@@ -13,8 +13,8 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
-| [`dog-behavior-vision-model`](https://github.com/isaiahcampusano/dog-behavior-vision-model) | dog behavior from video — v1 single image → v4 tail & body-posture cues |
-| [`chasemobile`](https://github.com/isaiahcampusano/chasemobile) | [add a one-line description] |
+| [`dog-behavior-vision-model`](https://github.com/isaiahcampusano/dog-behavior-vision-model) | [site that analyzes a dog video and predicts whether the dog appears negative, neutral, or relaxed.] |
+| [`chasemobile`](https://github.com/isaiahcampusano/chasemobile) | [inspired by Uber's senior-friendly simple mode] |
 
 
 
