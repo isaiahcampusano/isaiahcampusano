@@ -1,10 +1,10 @@
 
-<div style="position: relative; display: flex; justify-content: flex-end; padding: 40px 20px; max-width: 800px; margin: 0 auto;">
-  <div style="position: relative; display: inline-block;">
+<div style="display: flex; align-items: flex-end; justify-content: flex-end; gap: 0; position: relative; max-width: 800px;">
+  <div style="position: relative; margin-right: -20px; z-index: 1;">
+    <img src="./speech-bubble_1.svg" alt="hola, i'm zay" style="width: 300px; max-width: 100%;" />
+  </div>
+  <div style="z-index: 2;">
     <img src="./m3.png" alt="isaiahcampusano" width="220" style="display: block;" />
-    <div style="position: absolute; right: 100%; bottom: 60%; margin-right: -10px; width: 320px;">
-      <img src="./speech-bubble_1.svg" alt="hola, i'm zay" style="width: 100%;" />
-    </div>
   </div>
 </div>
   </tr>
