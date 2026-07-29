@@ -1,5 +1,4 @@
-<p align="left">
-  <img src="./m3.png" alt="isaiah" width="220" align="top" />
+
   &nbsp;&nbsp;&nbsp;
   <img src="./speech-bubble.svg" alt="hey i'm isaiah" width="420" align="top" />
 </p>
