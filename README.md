@@ -2,7 +2,7 @@
 ---
   <tr>
     <td width="40%" valign="left">
-      <img src="./speech-bubble_1.svg" alt="hola, i'm zay" width="50%" />
+      <img src="./speech-bubble_1.svg" alt="hola, i'm zay" width="20%" />
     </td>
     <td width="22%" align="right" valign="bottom">
       <img src="./m3.png" alt="isaiahcampusano" width="100" />>
