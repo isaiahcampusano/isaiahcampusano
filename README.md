@@ -11,8 +11,8 @@
 
 ### 🐶 about me
 - ❄️ [first-gen dominicano from lynn, mass]
-- 💻 [math @ university of georgia]
-- 📷 [building....]
+- 🏈 [math @ university of georgia]
+- ⌨️ [building....]
 
 ### 📁 fav repos
 | name | description |
