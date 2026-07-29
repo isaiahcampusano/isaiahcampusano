@@ -9,8 +9,8 @@
   </tr>
 </table>
 
-### 🎀 about me
-- 🌵 [first-gen dominicano from lynn, mass]
+### 🐶 about me
+- ❄️ [first-gen dominicano from lynn, mass]
 - 💻 [math @ university of georgia]
 - 📷 [building....]
 
