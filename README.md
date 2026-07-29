@@ -6,7 +6,7 @@
 
   <!-- Speech bubble on the RIGHT, aligned to the top (head level) -->
   <div style="margin-top: -15px;"> <!-- tweak this to move it up/down to perfectly point at your face -->
-    <img src="./speech-bubble_1.svg" alt="hola, i'm zay" style="width: 300px; max-width: 100%;" />
+    <img src="./speech-bubble_1.svg" alt="hola, i'm isaiah" style="width: 300px; max-width: 100%;" />
   </div>
 </div>
   </tr>
