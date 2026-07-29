@@ -4,7 +4,7 @@
       <img src="./speech-bubble_1.svg" alt="hola, i'm zay" width="100%" />
     </td>
     <td width="42%" align="center" valign="bottom">
-      <img src="./me.png" alt="isaiahcampusano" width="220" />>
+      <img src="./m3.png" alt="isaiahcampusano" width="220" />>
     </td>
   </tr>
 </table>
