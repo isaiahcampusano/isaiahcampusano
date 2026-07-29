@@ -4,9 +4,9 @@
 </p>
 
 
-### 🐶 about me
+### 🏈 about me
 - ❄️ [first-gen dominicano from lynn, mass]
-- 🏈 [math @ university of georgia]
+- 🎓 [math @ university of georgia]
 - ⌨️ [building....]
 
 ### 📁 fav repos
