@@ -1,15 +1,14 @@
-hola, i'm zay
 
 ---
   <tr>
-    <td width="58%" valign="middle">
+    <td width="58%" valign="left">
       <img src="./speech-bubble_1.svg" alt="hola, i'm zay" width="100%" />
     </td>
-    <td width="42%" align="center" valign="bottom">
+    <td width="42%" align="right" valign="bottom">
       <img src="./m3.png" alt="isaiahcampusano" width="220" />>
     </td>
   </tr>
-</table>
+
 
 ### 🐶 about me
 - ❄️ [first-gen dominicano from lynn, mass]
