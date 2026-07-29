@@ -1,15 +1,8 @@
-<div style="display: flex; align-items: flex-start; justify-content: space-between; max-width: 800px; margin: 0 auto;">
-  <!-- Image on the LEFT -->
-  <div>
-    <img src="./m3.png" alt="isaiahcampusano" width="220" style="display: block;" />
-  </div>
-
-  <!-- Speech bubble on the RIGHT, aligned to the top (head level) -->
-  <div style="margin-top: -15px;"> <!-- tweak this to move it up/down to perfectly point at your face -->
-    <img src="./m4.png" alt="hey, i'm isaiah" style="width: 300px; max-width: 100%;" />
-  </div>
-</div>
-  </tr>
+<p align="left">
+  <img src="./m3.png" alt="isaiah" width="220" align="top" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./speech-bubble.svg" alt="hey i'm isaiah" width="420" align="top" />
+</p>
 
 
 ### 🐶 about me
