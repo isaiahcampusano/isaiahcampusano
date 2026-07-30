@@ -7,7 +7,7 @@
 ### 🏈 about me
 - ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
-- ⌨️ [building....]
+- ⌨️ [current: bridge constructor physics dev]
 
 ### 📁 fav repos
 | name | description |
