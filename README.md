@@ -7,7 +7,7 @@
 ### 🏈 about me
 - ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
-- 🎵 [song otw: burning bridges ~ drake]
+- 🎵 [song otw: days go by ~ men i trust]
 
 ### 📁 fav repos
 | name | description |
