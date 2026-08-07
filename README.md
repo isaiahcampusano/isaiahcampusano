@@ -12,7 +12,7 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
-| [`atominc++`](https://github.com/isaiahcampusano/atom) | sandboxed visual of the hydrogen atom. |
+| [`the-super`](https://github.com/isaiahcampusano/atom) | sandboxed visual of the hydrogen atom. |
 | [`flood-fill`](https://github.com/isaiahcampusano/flood-fill) | algorithm visualizer. |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life. | 
 
