@@ -12,7 +12,7 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
-| [`the-super`](https://github.com/isaiahcampusano/atom) | sandboxed visual of the hydrogen atom |
+| [`fussion-fission`](https://github.com/isaiahcampusano/the-super) | animated hydrogen atom in fission/fusion |
 | [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
 | [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
