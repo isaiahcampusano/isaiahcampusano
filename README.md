@@ -7,7 +7,7 @@
 ### 🏈 about me
 - ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
-- 🎵 [song otw: days go by ~ men i trust]
+- 🎵 [song otw: tried our best ~ drake]
 
 ### 📁 fav repos
 | name | description |
