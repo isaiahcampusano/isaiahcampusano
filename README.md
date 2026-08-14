@@ -7,7 +7,7 @@
 ### 🏈 about me
 - ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
-- 🎵 [song otw: tried our best ~ drake]
+- 🎵 [song otw: port antonio ~ j.cole]
 
 ### 📁 fav repos
 | name | description |
