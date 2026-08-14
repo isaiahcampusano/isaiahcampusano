@@ -14,6 +14,7 @@
 |---|---|
 | [`the-super`](https://github.com/isaiahcampusano/atom) | sandboxed visual of the hydrogen atom |
 | [`flood-fill`](https://github.com/isaiahcampusano/flood-fill) | algorithm visualizer |
+| ['go-dawgs'](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspirit.com page is outdated | 
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
 
 
