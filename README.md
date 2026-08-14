@@ -13,7 +13,7 @@
 | name | description |
 |---|---|
 | [`the-super`](https://github.com/isaiahcampusano/atom) | sandboxed visual of the hydrogen atom |
-| [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml + k-means to compress image of my doggy |
+| [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
 | [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
 
