@@ -3,6 +3,7 @@
   <img src="./speech-bubble.svg" alt="hey i'm isaiah" width="420" align="top" />
 </p>
 
+---
 
 ### 🏈 about me
 - ☃️ [first-gen dominicano from lynn, mass]
