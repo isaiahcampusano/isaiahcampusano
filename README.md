@@ -14,9 +14,9 @@
 | name | description |
 |---|---|
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion. |
+| [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
 | [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
 | [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
-| [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
 | [`tetris`](https://isaiahcampusano.github.io/tetris/) | pb = 900513 | 
 
 
