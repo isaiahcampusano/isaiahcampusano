@@ -8,7 +8,7 @@
 ### 🏈 about me
 - ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
-- 🎵 [song otw: port antonio ~ j.cole]
+- 🎵 [song otw: make them cry ~ drake]
 
 ### 📁 fav repos
 | name | description |
