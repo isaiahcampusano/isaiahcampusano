@@ -6,7 +6,6 @@
 ---
 
 ### 🏈 about me
-- ☃️ [first-gen dominicano from lynn, mass]
 - 🎓 [math @ university of georgia]
 - 🎵 [song otw: make them cry ~ drake]
 
