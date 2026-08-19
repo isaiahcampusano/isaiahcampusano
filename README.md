@@ -16,7 +16,7 @@
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
 | [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
 | [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
-| [`tetris`](https://isaiahcampusano.github.io/tetris/) | pb = 900513 | 
+| [`tetris`](https://isaiahcampusano.github.io/tetris/) | thinking of a better name than neon stack | 
 | [`add/drop`](https://github.com/isaiahcampusano/coursicle-script) | building script that automates add/drop for waitlisted classes during syllabus week | 
 
 
