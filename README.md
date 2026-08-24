@@ -12,8 +12,8 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
-| [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion. |
-| [`chess`](https://github.com/isaiahcampusano/chess-engine) | i cant beat this engine for my life | 
+| [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
+| [`chess`](https://github.com/isaiahcampusano/chess-engine) | novice has 35% chance of blunder but expert is too op | 
 | [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
 |[`typeracer`](https://isaiahcampusano.github.io/wpm-/) | road to +120 wpm | 
 | [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
