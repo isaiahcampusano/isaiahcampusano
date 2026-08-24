@@ -7,7 +7,7 @@
 
 ### 🏈 about me
 - 🎓 [math @ university of georgia]
-- 🎵 [song otw: make them cry ~ drake]
+- 🎵 [song otw: 4422 ~ drake]
 
 ### 📁 fav repos
 | name | description |
