@@ -18,7 +18,7 @@
 | [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
 |[`typeracer`](https://isaiahcampusano.github.io/wpm-/) | road to +120 wpm | 
 | [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
-| [`tetris`](https://isaiahcampusano.github.io/tetris/) | thinking of a better name than neon stack | 
+| [`tetris`](https://isaiahcampusano.github.io/tetris/) | thinking of a way to make this a lesson of fullstack dev | 
 | [`add/drop`](https://github.com/isaiahcampusano/coursicle-script) | building script that automates add/drop for waitlisted classes during syllabus week | 
 
 
