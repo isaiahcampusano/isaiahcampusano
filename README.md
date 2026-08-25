@@ -7,7 +7,7 @@
 
 ### 🏈 about me
 - 🎓 [math @ university of georgia]
-- 💸 [ex-swe @ jpmc]
+- 💸 [prev @ jpmc]
 - 🎵 [song otw: 4422 ~ drake]
 
 ### 📁 fav repos
