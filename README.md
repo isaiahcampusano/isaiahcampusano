@@ -15,7 +15,7 @@
 |---|---|
 |[`minecraft`](https://github.com/isaiahcampusano/minecraft) | super-flat mc clone v1.7 |
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
-| [`chess`](https://github.com/isaiahcampusano/chess-engine) | pb (v novice...): 16 strong • 5 inaccuracies • 4 mistakes • 1 blunders | 
+| [`chess`](https://github.com/isaiahcampusano/chess-engine) | pb (v novice...): 12 strong • 2 inaccuracies • 1 mistakes • 0 blunders | 
 | [`myquant`](https://github.com/isaiahcampusano/kalshi-mispricing-arbitrage-engine) | tryna see how kalshi evaluates probabilities in betting markets | 
 
 
