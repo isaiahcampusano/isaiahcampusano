@@ -16,10 +16,6 @@
 |[`minecraft`](https://github.com/isaiahcampusano/minecraft) | super-flat mc clone v1.7 |
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | pb (v novice...): 16 strong • 5 inaccuracies • 4 mistakes • 1 blunders | 
-| [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
-|[`typeracer`](https://isaiahcampusano.github.io/wpm-/) | road to +120 wpm | 
-| [`sic-em`](https://isaiahcampusano.github.io/ugaspirit/) | the ugaspiritprogram.com page but cleaner | 
-| [`tetris`](https://isaiahcampusano.github.io/tetris/) | thinking of a way to make this a lesson of fullstack dev | 
 | [`myquant`](https://github.com/isaiahcampusano/kalshi-mispricing-arbitrage-engine) | tryna see how kalshi evaluates probabilities in betting markets | 
 
 
