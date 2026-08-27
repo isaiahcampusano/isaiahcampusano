@@ -13,6 +13,7 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
+|[`minecraft`](https://github.com/isaiahcampusano/minecraft) | v1.7 superflat mc clone |
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | pb (v novice...): 16 strong • 5 inaccuracies • 4 mistakes • 1 blunders | 
 | [`jojo`](https://isaiahcampusano.github.io/k-means/) | used ml to compress image of my dawg |
