@@ -17,7 +17,7 @@
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | pb (v novice...): 12 strong • 2 inaccuracies • 1 mistakes • 0 blunders | 
 | [`myquant`](https://github.com/isaiahcampusano/kalshi-mispricing-arbitrage-engine) | tryna see how kalshi evaluates probabilities in betting markets | 
-
+| [`mariokart`](https://github.com/isaiahcampusano/mk) | mk clone w snes 3 mario circuit |
 
 
 - 💼 linkedin: [`isaiah-campusano`](https://linkedin.com/in/isaiah-campusano-802535266)
