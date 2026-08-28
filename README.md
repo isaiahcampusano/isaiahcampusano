@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [math @ university of georgia]
 - 💸 [prev @ jpmc]
-- 🎵 [song otw: 4422 ~ drake]
+- 🎵 [song otw: fdo ~ superstar pride]
 
 ### 📁 fav repos
 | name | description |
