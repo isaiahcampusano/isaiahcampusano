@@ -22,4 +22,5 @@
 
 - 💼 linkedin: [`isaiah-campusano`](https://linkedin.com/in/isaiah-campusano-802535266)
 - ✍️ substack: [`zay`](https://substack.com/@zaymd)
+- 🍿 letterboxd: [`zay`](https://boxd.it/lAko5)
 - 🔗 tiktok: [`isaiah.md`](https://www.tiktok.com/@isaiah.md?_r=1&_t=ZT-98QMZsK1Dm1)
