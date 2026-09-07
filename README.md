@@ -6,9 +6,9 @@
 ---
 
 ### 🏈 about me
-- 🎓 [math @ university of georgia]
+- 🎓 [first-gen studying econ @ university of georgia]
 - 💸 [prev @ jpmc]
-- 🎵 [song otw: nikes ~ frank]
+- 🎵 [song otw: 24 songs ~ carti]
 
 ### 📁 fav repos
 | name | description |
