@@ -13,7 +13,7 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
-|[`minecraft`](https://github.com/isaiahcampusano/minecraft) | super-flat mc clone v1.7 |
+|[`minecraft`](https://github.com/isaiahcampusano/minecraft) | working on adding passive mobs, adding armor, and stuff |
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 |[`hype`](https://github.com/isaiahcampusano/youtube-hype-feature) | prototype for visibility on remaining videos eligible to be hyped within the week |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | martin is +2000 elo lol |
