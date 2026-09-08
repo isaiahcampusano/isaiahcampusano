@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
 - 💸 [prev @ jpmc]
-- 🎵 [song otw: 24 songs ~ carti]
+- 🎵 [song otw: the resistance ~ drake]
 
 ### 📁 fav repos
 | name | description |
