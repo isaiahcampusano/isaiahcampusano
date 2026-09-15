@@ -15,7 +15,7 @@
 |---|---|
 |[`minecraft`](https://github.com/isaiahcampusano/minecraft) | just added passive mobs! New creative/survival game modes for MCv6 |
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
-|[`hype`](https://github.com/isaiahcampusano/youtube-hype-feature) | prototype for visibility on remaining videos eligible to be hyped within the week |
+|[`hype`](https://github.com/isaiahcampusano/youtube-hype-feature) | prototype for visibility on  videos eligible to be hyped in weekly system |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | martin is +2000 elo lol |
 
 
