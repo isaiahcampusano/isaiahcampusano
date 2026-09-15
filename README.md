@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
 - 💸 [prev @ jpmc]
-- 🎵 [song otw: the resistance ~ drake]
+- 🎵 [song otw: stranger ~ jhene aiko]
 
 ### 📁 fav repos
 | name | description |
@@ -17,8 +17,7 @@
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 |[`hype`](https://github.com/isaiahcampusano/youtube-hype-feature) | prototype for visibility on remaining videos eligible to be hyped within the week |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | martin is +2000 elo lol |
-| [`myquant`](https://github.com/isaiahcampusano/kalshi-mispricing-arbitrage-engine) | tryna see how kalshi evaluates probabilities in betting markets | 
-| [`mariokart`](https://github.com/isaiahcampusano/mk) | mk clone w snes 3 mario circuit |
+
 
 
 - 💼 linkedin: [`isaiah-campusano`](https://linkedin.com/in/isaiah-campusano-802535266)
