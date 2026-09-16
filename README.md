@@ -1,13 +1,13 @@
 
   &nbsp;&nbsp;&nbsp;
-  <img src="./speech-bubble.svg" alt="hey i'm isaiah" width="420" align="top" />
+  <img src="./speech-bubble.svg" alt="hey whats up" width="420" align="top" />
 </p>
 
 ---
 
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
-- 💸 [prev @ jpmc]
+- 🔷 [prev @ jpmc]
 - 🎵 [song otw: stranger ~ jhene aiko]
 
 ### 📁 fav repos
@@ -20,7 +20,7 @@
 
 
 
-- 💼 linkedin: [`isaiah-campusano`](https://linkedin.com/in/isaiah-campusano-802535266)
+- 🧩 neet: [`isaiah-campusano`](https://leetcode.com/u/zaymd/)
 - ✍️ substack: [`zay`](https://substack.com/@zaymd)
-- 🍿 letterboxd: [`zay`](https://boxd.it/lAko5)
-- 🔗 tiktok: [`isaiah.md`](https://www.tiktok.com/@isaiah.md?_r=1&_t=ZT-98QMZsK1Dm1)
+- 🎬 letterboxd: [`zay`](https://boxd.it/lAko5)
+- 📱  tiktok: [`isaiah.md`](https://www.tiktok.com/@isaiah.md?_r=1&_t=ZT-98QMZsK1Dm1)
