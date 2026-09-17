@@ -17,6 +17,7 @@
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 |[`hype`](https://github.com/isaiahcampusano/youtube-hype-feature) | prototype for visibility on  videos eligible to be hyped in weekly system |
 | [`chess`](https://github.com/isaiahcampusano/chess-engine) | martin is +2000 elo lol |
+| [`typeracer`](https://isaiahcampusano.github.io/wpm-/) | new to cpp & py syntax - pushing toward 60 wpm |
 
 
 
