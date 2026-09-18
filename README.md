@@ -13,7 +13,7 @@
 ### 📁 fav repos
 | name | description |
 |---|---|
-|[`fourier'](https://github.com/isaiahcampusano/fourier-tutor) | fourier transform uses sine waves to enable noise cancelling |
+|[`fourier`](https://github.com/isaiahcampusano/fourier-tutor) | fourier transform uses sine waves to enable noise cancelling |
 |[`minecraft`](https://github.com/isaiahcampusano/minecraft) | just added passive mobs! New creative/survival game modes for MCv6 |
 | [`trinity`](https://github.com/isaiahcampusano/the-super) | sim of nuclear dynamics – nucleon interactions, fission, and fusion |
 |[`hype`](https://github.com/isaiahcampusano/youtube-hype-feature) | prototype for visibility on  videos eligible to be hyped in weekly system |
