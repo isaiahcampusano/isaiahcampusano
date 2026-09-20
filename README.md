@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: stranger ~ jhene aiko]
+- 🎵 [song otw: imy2 ~ drake]
 
 ### 📁 fav repos
 | name | description |
