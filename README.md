@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: imy2 ~ drake]
+- 🎵 [song otw: both ~ drake]
 
 ### 📁 fav repos
 | name | description |
