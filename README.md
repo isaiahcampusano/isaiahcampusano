@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: both ~ drake]
+- 🎵 [song otw: miss me ~ drake]
 
 ### 📁 fav repos
 | name | description |
