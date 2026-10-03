@@ -21,7 +21,6 @@
 
 
 
-- 🧩 neet: [`isaiah-campusano`](https://leetcode.com/u/zaymd/)
 - 🎮 discord: [isaiah-campuano](https://discordapp.com/users/493074399386402826)
 - 🎬 letterboxd: [zay](https://boxd.it/lAko5)
 - ✍️ substack: [zay](https://substack.com/@zaymd)
