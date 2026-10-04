@@ -23,5 +23,4 @@
 
 - 🎮 discord: [isaiah-campuano](https://discordapp.com/users/493074399386402826)
 - 🎬 letterboxd: [zay](https://boxd.it/lAko5)
-- ✍️ substack: [zay](https://substack.com/@zaymd)
 - 📱  tiktok: [isaiah.md](https://www.tiktok.com/@isaiah.md?_r=1&_t=ZT-98QMZsK1Dm1)
