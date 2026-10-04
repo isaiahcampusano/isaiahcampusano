@@ -6,7 +6,7 @@
 ---
 
 ### 🏈 about me
-- 🎓 [first-gen studying econ @ university of georgia]
+- 🎓 [university of georgia]
 - 🔷 [prev @ jpmc]
 - 🎵 [song otw: detroit hustle ~ lonnie]
 
