@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [first-gen studying econ @ university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: sacrifices ~ drake]
+- 🎵 [song otw: detroit hustle ~ lonnie]
 
 ### 📁 fav repos
 | name | description |
