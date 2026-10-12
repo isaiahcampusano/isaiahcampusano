@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: detroit hustle ~ lonnie]
+- 🎵 [song otw: classic ~ drake]
 
 ### 📁 fav repos
 | name | description |
