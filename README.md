@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: redemption ~ drake]
+- 🎵 [song otw: get it together ~ drake]
 
 ### 📁 fav repos
 | name | description |
