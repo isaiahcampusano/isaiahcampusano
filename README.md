@@ -18,5 +18,5 @@
 
 
 
-- 🎮 discord: [isaiah-campuano](https://discordapp.com/users/493074399386402826)
+
 
