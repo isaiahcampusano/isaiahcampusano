@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: greedy ~ drake]
+- 🎵 [song otw: tuscan leather ~ drake]
 
 ### 📁 fav repos
 | name | description |
