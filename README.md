@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: tuscan leather ~ drake]
+- 🎵 [song otw: weston road flows ~ drake]
 
 ### 📁 fav repos
 | name | description |
