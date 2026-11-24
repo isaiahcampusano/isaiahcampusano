@@ -8,7 +8,7 @@
 ### 🏈 about me
 - 🎓 [university of georgia]
 - 🔷 [prev @ jpmc]
-- 🎵 [song otw: weston road flows ~ drake]
+- 🎵 [song otw: fire & desire ~ drake]
 
 ### 📁 fav repos
 | name | description |
